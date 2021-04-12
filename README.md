@@ -46,6 +46,10 @@ https://docs.google.com/spreadsheets/d/1kotQaw263mwBoJlHZl4KFzznM_XUrI9gM5YHXAA4
 
 https://docs.google.com/spreadsheets/d/1COqXBNB1rpoq4FD17_olbVnNy9CLZVSXhLSAs20vQa4/edit?usp=sharing
 
+## Диетология
+
+Приложение для нормализации/слежки за ежедневным БЖУ со сканом UPC продуктов - https://play.google.com/store/apps/details?id=com.sillens.shapeupclub
+
 
 ## Массаж
 
