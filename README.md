@@ -67,6 +67,12 @@ https://docs.google.com/spreadsheets/d/1COqXBNB1rpoq4FD17_olbVnNy9CLZVSXhLSAs20v
 // TODO кому делать нежелательно
 // TODO смысл массажа
 
+Ссылка на конспект по массажу
+ на книгу Васечкина
+
+Фото направления лимфы
+Фото мышц
+
 // Разделы
 
 Спина:
