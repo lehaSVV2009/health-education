@@ -42,6 +42,8 @@ https://docs.google.com/spreadsheets/d/1kotQaw263mwBoJlHZl4KFzznM_XUrI9gM5YHXAA4
 
 ## Разбор упражнений
 
+https://m.facebook.com/watch/?v=2692895117626038&_rdr
+
 // TODO
 
 https://docs.google.com/spreadsheets/d/1COqXBNB1rpoq4FD17_olbVnNy9CLZVSXhLSAs20vQa4/edit?usp=sharing
@@ -72,3 +74,7 @@ https://docs.google.com/spreadsheets/d/1COqXBNB1rpoq4FD17_olbVnNy9CLZVSXhLSAs20v
 // Приемы
 
 Шейно-воротниковая зона:
+
+### Спортивный массаж
+
+
