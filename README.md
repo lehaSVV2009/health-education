@@ -2,6 +2,24 @@
 
 Это мое личное! Пользоваться на свой страх и риск :-)
 
+## Работа за компьютером
+
+Фото рекомендованной позы и расстояний
+
+### Полезные приложения
+
+Stretchly
+f.lux
+eyes care
+Eyes recovery
+App Block
+Perfect Posture
+Muscle & Motion
+Lifesum
+Daylio
+Text Neck
+
+
 ## Анатомия
 
 ### Анатомия скелета
@@ -37,8 +55,6 @@ https://docs.google.com/spreadsheets/d/1kotQaw263mwBoJlHZl4KFzznM_XUrI9gM5YHXAA4
 ### Упражнения для коррекции определенных частей тела
 
 https://docs.google.com/spreadsheets/d/1kotQaw263mwBoJlHZl4KFzznM_XUrI9gM5YHXAA4luI/edit?usp=sharing#gid=2015080367
-
-
 
 ## Разбор упражнений
 
