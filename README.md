@@ -42,9 +42,11 @@ https://docs.google.com/spreadsheets/d/1kotQaw263mwBoJlHZl4KFzznM_XUrI9gM5YHXAA4
 
 ## Разбор упражнений
 
+### Сиденье за компьютером
+
 https://m.facebook.com/watch/?v=2692895117626038&_rdr
 
-// TODO
+// TODO турники/брусья/отжимания/приседания
 
 https://docs.google.com/spreadsheets/d/1COqXBNB1rpoq4FD17_olbVnNy9CLZVSXhLSAs20vQa4/edit?usp=sharing
 
