@@ -42,6 +42,8 @@ https://docs.google.com/spreadsheets/d/1kotQaw263mwBoJlHZl4KFzznM_XUrI9gM5YHXAA4
 
 ## Разбор упражнений
 
+Muscle and motion
+
 ### Сиденье за компьютером
 
 https://m.facebook.com/watch/?v=2692895117626038&_rdr
