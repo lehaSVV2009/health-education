@@ -56,6 +56,9 @@ https://docs.google.com/spreadsheets/d/1kotQaw263mwBoJlHZl4KFzznM_XUrI9gM5YHXAA4
 
 https://docs.google.com/spreadsheets/d/1kotQaw263mwBoJlHZl4KFzznM_XUrI9gM5YHXAA4luI/edit?usp=sharing#gid=2015080367
 
+### Гимнастика для глаз
+
+
 ## Разбор упражнений
 
 Muscle and motion
