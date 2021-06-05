@@ -19,6 +19,9 @@ Lifesum
 Daylio
 Text Neck
 
+### Курсы
+http://shantidom.by/ryt200/
+
 
 ## Анатомия
 
