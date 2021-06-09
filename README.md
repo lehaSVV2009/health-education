@@ -19,9 +19,14 @@ Lifesum
 Daylio
 Text Neck
 
-### Курсы
-http://shantidom.by/ryt200/
+### Курсы в Минске
 
+https://fitnessacademy.by/
+https://beautyart.by/katalog-kursov/massazh/kurs-massaga
+https://institutfitnesa.by/
+https://massagist.by/
+https://mfr.by/
+http://shantidom.by/ryt200/
 
 ## Анатомия
 
