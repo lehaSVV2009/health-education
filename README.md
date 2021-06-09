@@ -193,3 +193,6 @@ https://docs.google.com/spreadsheets/d/1COqXBNB1rpoq4FD17_olbVnNy9CLZVSXhLSAs20v
 Много вибрации
 
  TODO видео антицеллюлитного
+
+## Инструктор тренажёрного зала
+
