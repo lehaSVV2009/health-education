@@ -476,7 +476,7 @@ https://docs.google.com/spreadsheets/d/1COqXBNB1rpoq4FD17_olbVnNy9CLZVSXhLSAs20v
 3. Разбиваешь все на 4-6 приемов пищи
 
 ```
-1)  50г овсянки + 1 банан (угли)
+1) 50г овсянки + 1 банан (угли)
 
 2) 2 яйца (углеводы + белки)
 
