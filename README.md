@@ -62,6 +62,7 @@ http://shantidom.by/ryt200/
 
 ### Анатомия скелета
 
+Ссылка на m1.pdf, m2.pdf, m3.pdf, ..., m6.pdf
 https://youtu.be/EsC5Ma4z9Pg
 
 ### Анатомия мышц
