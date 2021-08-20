@@ -984,3 +984,21 @@ https://photos.app.goo.gl/gMjuE9hxHumsQ64y8
 
 https://photos.app.goo.gl/M5MxS3it7xaYv9EW6
 
+### Видео упражнения на трицепс
+
+#### Французский жим лёжа
+
+https://photos.app.goo.gl/rtoZoyp42zVVn5ny6
+https://photos.app.goo.gl/N2azdxnTSdrd3SLp8
+https://photos.app.goo.gl/KtVrJXoRA2PvBWqS6
+
+#### Разгибание рук с рукояткой верхнего блока хватом сверху
+
+https://photos.app.goo.gl/ZfPr9JiKe5hfkx3t7
+https://photos.app.goo.gl/CuLMrQKU8gUTttWb9
+https://photos.app.goo.gl/AYA78fctbSm4BVCM9
+
+#### Отжимания трицепсами спиной к скамье
+
+https://photos.app.goo.gl/j9y9D9ib39QPLWoQ9
+
