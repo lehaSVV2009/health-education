@@ -954,6 +954,9 @@ P.S. Для локализации нагрузки на грудинных ча
 
 ### Видео упражнений на дельту
 
+#### Подъем гантелей в стороны на среднюю дельту
+TODO найти видео
+
 #### Разведение гантелей на заднюю дельту
 
 https://photos.app.goo.gl/PPbPfuHzS129fBug9
@@ -974,4 +977,10 @@ https://photos.app.goo.gl/JnaV8MSuhQ9z7YMXA
 
 https://photos.app.goo.gl/emX2EXMVfpJ7thRY8
 https://photos.app.goo.gl/gMjuE9hxHumsQ64y8
+
+### Видео упражнений на бицепс
+
+Сгибание рук стоя со штангой + сгибание рук стоя с гантелями + "Молоток" + сгибания зоттмана
+
+https://photos.app.goo.gl/M5MxS3it7xaYv9EW6
 
