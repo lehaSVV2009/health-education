@@ -951,3 +951,27 @@ P.S. Для локализации нагрузки на грудинных ча
 подъемы гантелей на переднюю дельту
 разведение гантелей в наклоне
 разведение гантелей стоя
+
+### Видео упражнений на дельту
+
+#### Разведение гантелей на заднюю дельту
+
+https://photos.app.goo.gl/PPbPfuHzS129fBug9
+
+#### Подъем гантелей перед собой на переднюю дельту
+
+https://photos.app.goo.gl/YPGZ9mVKYJH43cdu8
+
+#### Подъем гантелей над головой на переднюю дельту
+
+https://photos.app.goo.gl/JnaV8MSuhQ9z7YMXA
+
+#### Подъем штанги над головой на переднюю дельту
+
+https://photos.app.goo.gl/JnaV8MSuhQ9z7YMXA
+
+#### Тяга верхнего блока стоя на заднюю дельту
+
+https://photos.app.goo.gl/emX2EXMVfpJ7thRY8
+https://photos.app.goo.gl/gMjuE9hxHumsQ64y8
+
