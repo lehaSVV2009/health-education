@@ -1002,3 +1002,26 @@ https://photos.app.goo.gl/AYA78fctbSm4BVCM9
 
 https://photos.app.goo.gl/j9y9D9ib39QPLWoQ9
 
+### Видео упражнений на грудь
+
+#### Жим штанги лёжа на наклонной скамье
+
+https://photos.app.goo.gl/7opSzVX7U691T2mC9
+
+#### Жим гантелей лёжа на наклонной скамье
+
+https://photos.app.goo.gl/yDDRyB6hgQSb6Pvm7
+
+#### Разведение гантелей лёжа нас наклонной скамье
+
+https://photos.app.goo.gl/LFbVNmCKYugpP5Fx6
+
+#### Отжимания от пола
+
+https://photos.app.goo.gl/PZbnL7CSt2pAVPi58
+
+#### Отжимания на брусьях
+
+
+
+## Травмы
