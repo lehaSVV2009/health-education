@@ -1022,6 +1022,11 @@ https://photos.app.goo.gl/PZbnL7CSt2pAVPi58
 
 #### Отжимания на брусьях
 
+https://photos.app.goo.gl/iExASp6ywuNeNAFRA
 
+#### Сведение верхних блоков crossover
+
+https://photos.app.goo.gl/gmgx9Ke5xWDigki76
+https://photos.app.goo.gl/Jv8ESineumPNjZ7n7
 
 ## Травмы
