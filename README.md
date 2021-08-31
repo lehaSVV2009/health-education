@@ -19,9 +19,10 @@ Lifesum
 Daylio
 Text Neck
 
+
 ### Курсы в Минске
 
-https://fitnessacademy.by/
+https://fitnessacademy.by
 https://beautyart.by/katalog-kursov/massazh/kurs-massaga
 https://institutfitnesa.by/
 https://massagist.by/
@@ -98,6 +99,11 @@ https://docs.google.com/spreadsheets/d/1kotQaw263mwBoJlHZl4KFzznM_XUrI9gM5YHXAA4
 
 ### Гимнастика для глаз
 
+Todo
+
+### Нервно-мышечная релаксация
+
+По Джекобсону
 
 ## Разбор упражнений
 
