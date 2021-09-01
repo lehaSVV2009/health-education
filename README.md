@@ -91,7 +91,9 @@ https://docs.google.com/spreadsheets/d/1kotQaw263mwBoJlHZl4KFzznM_XUrI9gM5YHXAA4
 
 ### Гимнастика Шишонина от шейного остеохондроза
 
-https://docs.google.com/spreadsheets/d/1kotQaw263mwBoJlHZl4KFzznM_XUrI9gM5YHXAA4luI/edit?usp=sharing#gid=2038064627
+Пояснение к старой - https://photos.app.goo.gl/yRtg3LJ44vB7wi5w6
+Старая - https://photos.app.goo.gl/p7arTYsU5RFeFV6D6
+Новая - https://photos.app.goo.gl/n1o12DgzgDN8Jhef9
 
 ### Упражнения для коррекции определенных частей тела
 
