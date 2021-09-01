@@ -105,7 +105,9 @@ Todo
 
 ### Нервно-мышечная релаксация
 
-По Джекобсону
+По Джекобсону:
+* https://www.youtube.com/watch?v=Hp8y_MLFelw
+* https://www.youtube.com/watch?v=DpZO4KBqtbQ
 
 ## Разбор упражнений
 
