@@ -1199,5 +1199,24 @@ https://photos.app.goo.gl/iExASp6ywuNeNAFRA
 https://photos.app.goo.gl/gmgx9Ke5xWDigki76
 https://photos.app.goo.gl/Jv8ESineumPNjZ7n7
 
+### Видео упражнений на пресс
+
+#### Планка
+
+https://photos.app.goo.gl/cMgfRH9udZZqavPs6
+
+#### Вакуум
+
+https://photos.app.goo.gl/5EFg1tsPrRtD2pJs9
+https://photos.app.goo.gl/KRCVaoaBroVWeZeQ9
+
+#### Подъем ног на нижний пресс
+
+https://photos.app.goo.gl/6fpxmNzbNU7JWv5H7
+
+#### Сворачивание туловища
+
+https://photos.app.goo.gl/WCGaJWF3R6Qj7xGq5
+
 ## Травмы
 To-do
