@@ -1214,9 +1214,17 @@ https://photos.app.goo.gl/KRCVaoaBroVWeZeQ9
 
 https://photos.app.goo.gl/6fpxmNzbNU7JWv5H7
 
-#### Сворачивание туловища
+#### Подъемы туловища
 
 https://photos.app.goo.gl/WCGaJWF3R6Qj7xGq5
+
+#### Подъемы коленей в упоре
+
+https://photos.app.goo.gl/YSVeCVxPVQM5XCU66
+
+#### Подъемы туловища на наклонной скамье
+
+https://photos.app.goo.gl/mn32gYWbkUi5Fr2i9
 
 ## Травмы
 To-do
