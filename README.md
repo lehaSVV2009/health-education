@@ -1122,6 +1122,7 @@ P.S. Для локализации нагрузки на грудинных ча
 разведение гантелей в наклоне
 разведение гантелей стоя
 
+
 ### Видео упражнений на дельту
 
 #### Подъем гантелей в стороны на среднюю дельту
@@ -1148,11 +1149,13 @@ https://photos.app.goo.gl/JnaV8MSuhQ9z7YMXA
 https://photos.app.goo.gl/emX2EXMVfpJ7thRY8
 https://photos.app.goo.gl/gMjuE9hxHumsQ64y8
 
+
 ### Видео упражнений на бицепс
 
 Сгибание рук стоя со штангой + сгибание рук стоя с гантелями + "Молоток" + сгибания зоттмана
 
 https://photos.app.goo.gl/M5MxS3it7xaYv9EW6
+
 
 ### Видео упражнения на трицепс
 
@@ -1171,6 +1174,7 @@ https://photos.app.goo.gl/AYA78fctbSm4BVCM9
 #### Отжимания трицепсами спиной к скамье
 
 https://photos.app.goo.gl/j9y9D9ib39QPLWoQ9
+
 
 ### Видео упражнений на грудь
 
@@ -1199,6 +1203,42 @@ https://photos.app.goo.gl/iExASp6ywuNeNAFRA
 https://photos.app.goo.gl/gmgx9Ke5xWDigki76
 https://photos.app.goo.gl/Jv8ESineumPNjZ7n7
 
+### Видео упражнения на спину
+
+#### Тяга штанги стоя в наклоне
+
+https://photos.app.goo.gl/xcufy9KkQwDAqHwWA
+
+#### Тяга верхнего блока к груди
+
+https://photos.app.goo.gl/zavpDiTzFwvYmhNN9
+https://photos.app.goo.gl/o1iue3zXyCKGdixk7
+
+#### Тяга гантели в наклоне
+
+https://photos.app.goo.gl/64RdZpTnAyEQL2Kt8
+
+#### Тяга нижнего блока
+
+https://photos.app.goo.gl/CgDWrvVy8jR7Mmty5
+
+#### Тяга гантелей на наклонной скамье
+
+https://photos.app.goo.gl/5XcAdpBzUDzw69TW9
+
+#### Поясничные разгибаня на гиперэкстензии
+
+Важно с ровной спиной!
+
+https://photos.app.goo.gl/tqAzWgVDNLQyMkjX6
+
+
+### Видео упражнения на ноги
+
+#### Приседание
+
+https://photos.app.goo.gl/3AKmA5PSeNJEY6Pa7 + https://photos.app.goo.gl/6UEdbvAVCGfogTSz7
+
 ### Видео упражнений на пресс
 
 #### Планка
@@ -1225,6 +1265,7 @@ https://photos.app.goo.gl/YSVeCVxPVQM5XCU66
 #### Подъемы туловища на наклонной скамье
 
 https://photos.app.goo.gl/mn32gYWbkUi5Fr2i9
+
 
 ## Травмы
 To-do
