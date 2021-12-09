@@ -1313,6 +1313,14 @@ https://photos.app.goo.gl/tqAzWgVDNLQyMkjX6
 
 https://photos.app.goo.gl/3AKmA5PSeNJEY6Pa7 + https://photos.app.goo.gl/6UEdbvAVCGfogTSz7
 
+#### Мертвая тяга со штангой
+
+https://photos.app.goo.gl/qsxQm7ubUmgLikiN6 + https://photos.app.goo.gl/uz5c5ienXCVTTj9cA
+
+### Выпад
+
+https://photos.app.goo.gl/BqK7cgj134KzGkHi9 + https://photos.app.goo.gl/xMBWLjc7Ki3fFwwr9 + https://photos.app.goo.gl/eMWwNunxDU9wmLaf8
+
 ### Видео упражнений на пресс
 
 #### Планка
