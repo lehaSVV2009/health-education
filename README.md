@@ -4,20 +4,21 @@
 
 ## Работа за компьютером
 
+TODO
 Фото рекомендованной позы и расстояний
 
 ### Полезные приложения
 
-Stretchly
-f.lux
-eyes care
-Eyes recovery
-App Block
-Perfect Posture
-Muscle & Motion
-Lifesum
-Daylio
-Text Neck
+* Stretchly
+* f.lux
+* eyes care
+* Eyes recovery
+* App Block
+* Perfect Posture
+* Muscle & Motion
+* Lifesum
+* Daylio
+* Text Neck
 
 
 ### Курсы в Минске
