@@ -1317,9 +1317,28 @@ https://photos.app.goo.gl/3AKmA5PSeNJEY6Pa7 + https://photos.app.goo.gl/6UEdbvAV
 
 https://photos.app.goo.gl/qsxQm7ubUmgLikiN6 + https://photos.app.goo.gl/uz5c5ienXCVTTj9cA
 
-### Выпад
+#### Выпад
 
 https://photos.app.goo.gl/BqK7cgj134KzGkHi9 + https://photos.app.goo.gl/xMBWLjc7Ki3fFwwr9 + https://photos.app.goo.gl/eMWwNunxDU9wmLaf8
+
+#### Сгибание ног лежа
+
+
+TODO Жим платформы с широкой постановкой ног
+TODO Жим платформы с узкой постановкой ног
+TODO Приседание с широкой постановкой ног
+TODO Сгибание ног сидя
+TODO Разгибание ног сидя
+TODO Сведение ног сидя
+TODO Подъемы на носки в наклоне "Ослик"
+TODO Разгибание голени сидя
+
+### Видео упражнений на ягодицы
+
+TODO...
+TODO Ягодичный мостик
+TODO Разведение ног сидя
+
 
 ### Видео упражнений на пресс
 
