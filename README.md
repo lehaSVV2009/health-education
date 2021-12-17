@@ -9,17 +9,19 @@ TODO
 
 ### Полезные приложения
 
-* Stretchly
-* f.lux
-* eyes care
-* Eyes recovery
-* App Block
-* Perfect Posture
-* Muscle & Motion
-* Lifesum
-* Daylio
-* Text Neck
-
+* [Stretchly](https://hovancik.net/stretchly/downloads/) - блокирует экран монитора для перерыва каждый час на 10 минут (время настраивается)
+* [f.lux](https://justgetflux.com/) - эргономично настраивает яркость экрана монитора
+* [eyes care](https://play.google.com/store/apps/details?id=com.kapron.ap.eyecare&hl=en_US&gl=US) - фильтрует "вредный" синий свет на экране телефона
+* [Eyes recovery](https://play.google.com/store/apps/details?id=com.shvagerfm.eyecorrector1&hl=en_US&gl=US) - супер-понятное мобильное приложение для зарядки глаз
+* [Eyes recovery PRO FREE](https://play.google.com/store/apps/details?id=com.shvagerfm.EyelastPro&hl=en_US&gl=US) - супер-понятное мобильное приложение для зарядки глаз, больше с упором на аккомодацию
+* [App Block](https://play.google.com/store/apps/details?id=cz.mobilesoft.appblock&hl=en_US&gl=US) - мобильное приложение, дающее возможность блокировать другое приложение, если сидеть в нем больше 30 минут в час
+* [Perfect Posture](https://play.google.com/store/apps/details?id=app.perfectposture&hl=en_US&gl=US) - упражнения для улучшения осанки
+* [Muscle & Motion](https://play.google.com/store/apps/details?id=air.com.musclemotion.strength.mobile&hl=en_US&gl=US) - платный набор приложений, где можно очень наглядно видеть на скелете и мышцах движения в упражнениях
+* [Lifesum](https://play.google.com/store/apps/details?id=com.sillens.shapeupclub&hl=en_US&gl=US) - удобное мобильное приложение для подсчета калорий, сканируя штрих-код продукта
+* [XBodyBuild](https://play.google.com/store/apps/details?id=com.xbodybuild.lite&hl=en_US&gl=US) - настраиваемый под себя счетчик калорий и дневник тренировок
+* [Daylio](https://play.google.com/store/apps/details?id=net.daylio&hl=en_US&gl=US) - мобильное приложение для ведения дневника настроений
+* [Text Neck](https://play.google.com/store/apps/details?id=forward.head.posture.text.neck&hl=en_US&gl=US) - мобильное приложение с упражнениями против "синдрома текстовой шеи"
+* [Prana Breath](https://play.google.com/store/apps/details?id=com.abdula.pranabreath&hl=en_US&gl=US) - мобильное приложение для дыхательной гимнастики с очевидными шаблонами дыхания
 
 ### Курсы в Минске
 
