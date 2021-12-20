@@ -81,7 +81,11 @@ TODO
 
 * [БГМУ Краткая анатомия мышц.pdf](Анатомия/БГМУ%20Краткая%20анатомия%20мышц.pdf)
 * [Таблица мышц.pdf](Анатомия/Таблица%20мышц.pdf)
-* [БГМУ Анатомия 9](https://www.bsmu.by/downloads/kafedri/k_anatomia/stud/2017-2/mr9.pdf)
+* [БГМУ Анатомия 9. МИОЛОГИЯ](https://www.bsmu.by/downloads/kafedri/k_anatomia/stud/2017-2/mr9.pdf)
+* [БГМУ Анатомия 10. МЫШЦЫ И ФАСЦИИ ЖИВОТА](https://www.bsmu.by/downloads/kafedri/k_anatomia/stud/2017-2/mr10.pdf)
+* [БГМУ Анатомия 12. МЫШЦЫ И ФАСЦИИ ШЕИ. МЫШЦЫ И ФАСЦИИ ГОЛОВЫ](https://www.bsmu.by/downloads/kafedri/k_anatomia/stud/2017-2/mr12.pdf)
+* [БГМУ Анатомия 13. МЫШЦЫ И ФАСЦИИ ВЕРХНЕЙ КОНЕЧНОСТИ](https://www.bsmu.by/downloads/kafedri/k_anatomia/stud/2017-2/mr13.pdf)
+* [БГМУ Анатомия 14. МЫШЦЫ, ФАСЦИИ И ТОПОГРАФИЯ НИЖНЕЙ КОНЕЧНОСТИ](https://www.bsmu.by/downloads/kafedri/k_anatomia/stud/2017-2/mr14.pdf)
 * ["Анатомия силовых упражнений для мужчин и женщин" Фредерик Делавье](Персональный%20фитнес-тренер/Делавье%20Анатомия%20силовых%20упражнений%20для%20мужчин%20и%20женщин_compressed.pdf)
 
 ## Упражнения
